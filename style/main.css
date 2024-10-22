@@ -1,0 +1,123 @@
+body {
+  background-color: rgba(73, 73, 73, 0.164);
+}
+.iconlogo {
+  background-color: rgba(0, 0, 0, 0.412);
+}
+.trangchu {
+  position: absolute;
+  top: 20px;
+  right: 230px;
+}
+.tintuc {
+  position: absolute;
+  top: 20px;
+  right: 130px;
+}
+.circle {
+  border-radius: 5px;
+}
+.text1 {
+  width: 650px;
+  height: 300px;
+  position: relative;
+  background-color: rgb(18, 18, 18);
+  top: 30px;
+  left: 190px;
+}
+.text2 {
+  width: 470px;
+  height: 120px;
+  background-color: gray;
+  position: absolute;
+  top: 82px;
+  right: 120px;
+  padding-top: 10px;
+}
+.text3 {
+  width: 230px;
+  height: 150px;
+  background-color: rgba(45, 136, 163, 0.514);
+  position: absolute;
+  top: 230px;
+  right: 360px;
+  padding-top: 10px;
+}
+.text4 {
+  width: 230px;
+  height: 150px;
+  background-color: gray;
+  position: absolute;
+  top: 230px;
+  right: 120px;
+  padding-top: 10px;
+}
+.circles {
+  width: 120px;
+  height: 120px;
+  background-color: rgb(0, 0, 0);
+  position: relative;
+  top: -110px;
+  border-radius: 5px;
+}
+.noncontainer {
+  float: left;
+  padding: 10px;
+  margin: 20px;
+}
+.icons {
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.note {
+  font-size: 14.5px;
+  text-align: center;
+}
+.number {
+  font-size: 30px;
+  padding-left: 20px;
+  width: 60px;
+  height: 40px;
+  margin-top: 20px;
+}
+#dficon {
+  position: absolute;
+  top: 20px;
+}
+.desicon {
+  display: block;
+  width: 10px;
+  height: 10px;
+  position: relative;
+  top: -35px;
+  left: 400px;
+}
+.img1 {
+  position: relative;
+  top: 40px;
+}
+.contai {
+  position: relative;
+  top: -170px;
+  left: 360px;
+  font-size: 14px;
+  display: block;
+}
+.fixcontent {
+  position: relative;
+  left: 70px;
+  display: block;
+  top: -19px;
+  left: 190px;
+}
+span {
+  padding: 1px;
+}
+.fitparagraph {
+  display: block;
+  position: relative;
+}
+.container {
+  width: fit-content;
+  height: 380px;
+}
